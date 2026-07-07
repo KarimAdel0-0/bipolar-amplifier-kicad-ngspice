@@ -1,6 +1,6 @@
 # Bipolar Amplifier Simulation — KiCad + ngspice
 
-A common-emitter BJT amplifier designed and simulated in **KiCad 8 (Eeschema)** using the built-in **ngspice** engine. The project compares a generic NPN transistor model against two real-world SPICE models (**BC546** and **BC817-40**), and demonstrates manual bias-point tuning to restore correct amplifier behavior after swapping transistor models.
+A common-emitter BJT amplifier designed and simulated in **KiCad 10 (Eeschema)** using the built-in **ngspice** engine. The project compares a generic NPN transistor model against two real-world SPICE models (**BC546** and **BC817-40**), and demonstrates manual bias-point tuning to restore correct amplifier behavior after swapping transistor models.
 
 ## Project Goal
 
