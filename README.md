@@ -71,7 +71,7 @@ Root cause: a multi-line SPICE comment had wrapped onto a second line that didn'
 
 ## Reference
 
-Tutorial followed: [ngspice + KiCad/Eeschema simulation guide]([https://ngspice.sourceforge.io/](https://ngspice.sourceforge.io/ngspice-eeschema.html)) by Holger Vogt.
+Tutorial followed: [ngspice + KiCad/Eeschema simulation guide]([https://ngspice.sourceforge.io/](https://ngspice.sourceforge.io/ngspice-eeschema.html)]) by Holger Vogt.
 
 ---
 **Author:** Karim Adel — Junior Analog/Mixed-Signal Layout Engineer, learning PCB/circuit design with KiCad.
